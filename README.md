@@ -1,7 +1,8 @@
 EXACT
 ==== 
-        EXACT: Attributed Entity Extraction By Annotating Texts
-Attributed entity is an entity defined by its structural attributes.
+EXACT: Attributed Entity Extraction By Annotating Texts
+----
+        Attributed entity is an entity defined by its structural attributes.
 Extracting attributed entities from textual documents is an important problem for a variety of big-data applications. We propose a
 system called EXACT for extracting attributed entities from textual documents by performing explorative annotation tasks, which
 create attributes and bind them to tag values. To support efficient
