@@ -22,3 +22,11 @@ System Design
 <h4>
 4) The entity generation module which generates AEs from the indexer. As generating all entities in a single batch is expensive in computation and not user-friendly, we choose to generate entities selectively in response to each finished annotation task. After each feedback, the new generated AEs can be displayed in the browser as a cue for further operations.
 </h4>
+
+##EXACT INPUT
+
+##EXACT OUTPUT
+
+##EXACT USR INTERFACE
+
+
