@@ -9,7 +9,7 @@ System Design
 ----
 ![system design](https://github.com/yysys/EXACT/blob/master/images/system_design.png)
 
-##EXACT contains four key components:
+## EXACT contains four key components:
 <h4>
 1) The labelling module which iteratively runs interactive annotation tasks. These tasks display textual objects such as tags, document snippets, and attributes in a few crafted Web pages, and collect various feedback from the user. The feedback might be to create a new attribute, to confirm a recommended tag as a value for an attribute, to select a tag in a snippet as a synonym of a value, and so forth.
 </h4>
@@ -23,10 +23,10 @@ System Design
 4) The entity generation module which generates AEs from the indexer. As generating all entities in a single batch is expensive in computation and not user-friendly, we choose to generate entities selectively in response to each finished annotation task. After each feedback, the new generated AEs can be displayed in the browser as a cue for further operations.
 </h4>
 
-##EXACT INPUT
+## EXACT INPUT
 ![system design](https://github.com/yysys/EXACT/blob/master/images/exact_input.png)
-##EXACT OUTPUT
+## EXACT OUTPUT
 ![system design](https://github.com/yysys/EXACT/blob/master/images/exact_output.png)
-##EXACT USR INTERFACE
+## EXACT USR INTERFACE
 ![system design](https://github.com/yysys/EXACT/blob/master/images/user%20interface.png)
 
