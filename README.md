@@ -24,9 +24,9 @@ System Design
 </h4>
 
 ##EXACT INPUT
-
+![system design](https://github.com/yysys/EXACT/blob/master/images/exact_input.png)
 ##EXACT OUTPUT
-
+![system design](https://github.com/yysys/EXACT/blob/master/images/exact_output.png)
 ##EXACT USR INTERFACE
-
+![system design](https://github.com/yysys/EXACT/blob/master/images/user%20interface.png)
 
