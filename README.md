@@ -6,7 +6,7 @@ EXACT: Attributed Entity Extraction By Annotating Texts
 2).一个可行的方法是采用众包，然而众包存在以下缺点：1.众包通常预定义属性和属性值。2.以人群的方法回答众包问题需要付出大量劳动力。3.几乎所有的众包方法都会出现标注不一致的情况。
 
 
-![system design]https://github.com/yysys/EXACT/blob/master/images/system_design.png ----------
+![system design](https://github.com/yysys/EXACT/blob/master/images/system_design.png)
 
 
 
